@@ -1,4 +1,3 @@
-import React from 'react'
 
 const ShowUserName = ({name, numero, virgi}) => {
   return (
